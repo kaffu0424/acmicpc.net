@@ -24,9 +24,9 @@ int solving(int n)
 	return dp[n];
 }
 
-int main()
-{
-	cin >> N;
-	result = solving(N);
-	cout << result;
-}
+//int main()
+//{
+//	cin >> N;
+//	result = solving(N);
+//	cout << result;
+//}
